@@ -1,0 +1,61 @@
+@import "settings";
+@import "foundation";
+
+body
+{
+
+	strong
+	{
+		font-weight: bold;
+	}
+	
+	.button
+	{
+		margin-bottom: 0;
+		background: #103a71;
+	}
+	
+	p.success
+	{
+		color: #376c52;
+	}
+	
+	p.error
+	{
+		color: red;
+	}
+	
+	#header
+	{
+		padding: 30px 0 20px 0;
+	}
+	
+	#content_container
+	{
+		min-height: 300px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	
+	textarea
+	{
+		resize: vertical;
+	}
+	
+	#manage_nav
+	{
+		a
+		{
+		
+			text-align: center;
+			
+			span
+			{
+				display: block;
+			}
+		}
+	}
+
+}
+
+

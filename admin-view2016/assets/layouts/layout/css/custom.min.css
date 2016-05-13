@@ -1,0 +1,47 @@
+/* on mobile browsers, I set a width of 100% */
+table.mceLayout, textarea.tinyMCE, textarea {
+    width: 100% !important;
+}
+
+/* on large screens, I use a different layout, so 600px are sufficient */
+@media only screen and (min-width: 600px) {
+    table.mceLayout, textarea.richEditor, textarea {
+       width: 700px !important;
+    }
+}
+
+/* make the toolbar wrap */
+.mceToolbar td {
+    display:table-row;
+    float: left;
+}
+.mceToolbar td:nth-of-type(11){
+    clear: left;
+}
+
+@media (min-width: 992px)
+.page-boxed {
+    background-color: #303a47!important;
+}
+
+.page-header.navbar .page-logo .logo-default {
+    margin: 10px 0 0;
+}
+
+.mt-checkbox, .mt-radio {
+margin-left: 30px;
+}
+
+.page-footer {
+    padding: 20px 20px 5px;
+    font-size: 13px;
+    height: 50px;
+}
+
+.scroll-to-top {
+    bottom: 5px;
+}
+
+.theme-panel, .page-content-white .theme-panel {
+    margin-top: 15px;
+}

@@ -1,0 +1,17 @@
+Version 3.0 (2012-02-15)
+  Use version 3.0.0 of Ar-PHP.org classes
+
+Version 2.1 (2009-03-15)
+  Use version 2.6 of Ar-PHP.org classes; Utilize Um-Al-Qoura correction for Hijri date.
+
+Version 2.0 (2009-09-10)
+  Use version 2.5.2 of Ar-PHP.org classes (much better performance and more less memory usage), and add Arabic text standardization button, also we exclude unused class from that library.
+
+Version 1.1 (2009-02-12)
+  Use latest version of Ar-PHP.org classes (much better performance and more less memory usage).
+
+
+Version 1.0.1 (2008-08-17)
+  Add GPL license notation as well as my reference to this TinyMCE plugin.
+  TinyMCE plugin will return now notice message refer to PHP needs if there is no PHP support.
+  Add blank index.html file in the TinyMCE plugin directory and sub directory.
