@@ -26,7 +26,9 @@
             <!-- Snowflake Border -->
             <tr>
               <td style="padding: 15px;">
-              	<img class="fix" src="http://lorewing.com/site_view/img/slider/snowflake_border.gif" width="100%" border="0" alt="" style="height: auto;">
+              <img class="fix" src="http://lorewing.com/site_view/img/slider/logo-name-s-black-text.png"  border="0" alt="Lorewing Logo" style="height: auto; display: block;
+    margin-left: auto;
+    margin-right: auto;">
               </td>
             </tr>
             <tr>
@@ -77,15 +79,23 @@
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                 
                   <tr>
+              <td bgcolor="#a2292d" style="padding: 20px 30px 15px;">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                
+                  <tr>
                     <td align="center" style="padding: 0 0 20px;">
                       <table border="0" cellspacing="0" cellpadding="0">
                         <tr>
+                        <td width="32" style="text-align: center; padding: 0 10px;" align="center">
+                            <a href="http://www.lorewng.com" target="_blank">
+                              <img src="http://lorewing.com/site_view/img/slider/lorewing-logo.png" width="32" height="32" alt="Twitter" border="0" style="height: auto;" /></a>
+                          </td>
                           <td width="32" style="text-align: center; padding: 0 10px;" align="center">
-                            <a href="https://www.facebook.com/sharer/sharer.php?u=http://givealittlegif.ca" target="_blank">
+                            <a href="https://www.facebook.com/Lorewing-Web-Design-202323249785108/" target="_blank">
                               <img src="http://lorewing.com/site_view/img/slider/facebook_32.png" width="32" height="32" alt="Facebook" border="0" style="height: auto;" /></a>
                           </td>
                           <td width="32" style="text-align: center; padding: 0 10px;" align="center">
-                            <a href="" target="_blank">
+                            <a href="https://twitter.com/lorewing" target="_blank">
                               <img src="http://lorewing.com/site_view/img/slider/twitter_32.png" width="32" height="32" alt="Twitter" border="0" style="height: auto;" /></a>
                           </td>
                         </tr>
